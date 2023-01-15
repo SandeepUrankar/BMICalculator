@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#43A047</color>
 
+    <color name="ic_launcher_background">#1992E8</color>
+
     <color name="layout_background">#222830</color>
     <color name="card_background">#28425C</color>
     <color name="text_hint">#A2ADD1</color>

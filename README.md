@@ -2,6 +2,7 @@
 > [Body mass index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms and height in metres.
 
 - An android app written in Kotlin 💜 to calculate BMI Score. ✨
+- If you like it, please star the repo. 🌟
 - Live Screenshot 🔥
   
     <img width="25%" height="25%" src="./screenshot/BMI_SS.png"/>
