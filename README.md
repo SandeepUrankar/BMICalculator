@@ -4,22 +4,21 @@
 
 - An android app written in Kotlin 💜 to calculate BMI Score. ✨
 - If you like it, please star the repo. 🌟
-- Live Screenshot 🔥
-  
-    <img width="25%" height="25%" src="./screenshot/BMI_SS.png"/>
+- Live Screenshot 🔥 <br> <br>
+  <img width="40%" height="auto" src="./screenshot/BMI_SS.png"/>
 
 - Attempt to make it Responsive, 🔎
 
   <details>
     <summary>Phone and Foldable device 📱</summary>
   
-    <img width="80%" height="80%" src="./screenshot/BMI_ss_phone_fold.png"/>
+    <img src="./screenshot/BMI_ss_phone_fold.png"/>
   </details>
 
   <details>
     <summary>Tablet 💻 </summary>
   
-    <img width="80%" height="80%" src="./screenshot/BMI_ss_tablet.png"/>
+    <img src="./screenshot/BMI_ss_tablet.png"/>
   </details>
 
 - For bugs/feedback please [create](https://github.com/SandeepUrankar/BMICalculator/issues/new) issues. 🪲🐛
