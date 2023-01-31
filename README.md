@@ -5,7 +5,7 @@
 - An android app written in Kotlin 💜 to calculate BMI Score. ✨
 - If you like it, please star the repo. 🌟
 - Live Screenshot 🔥 <br> <br>
-  <img margin="0 auto" width="50%" height="auto" src="./screenshot/BMI_SS.png"/>
+  <img height="500vh" src="./screenshot/BMI_SS.png"/>
 
 - Attempt to make it Responsive, 🔎
 
